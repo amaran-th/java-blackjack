@@ -26,7 +26,7 @@
 ## 시작하기
 해당 레포지토리를 Clone하고 IDE에서 src/main/java에 위치한 Application.java 파일을 실행시켜 프로그램을 동작시킬 수 있습니다.
 ```
-git clone -b as https://github.com/amaran-th/java-ladder.git
+git clone -b as https://github.com/amaran-th/java-blackjack.git
 ```
 ## 도메인 모델 네이밍 사전
 | 한글명   | 영문명        | 설명                  |
